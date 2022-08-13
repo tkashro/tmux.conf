@@ -81,9 +81,6 @@ This configuration uses the following bindings:
 
  - `<prefix> m` toggles mouse mode on or off
 
- - `<prefix> U` launches Urlview (if available)
- - `<prefix> F` launches Facebook PathPicker (if available)
-
  - `<prefix> Enter` enters copy-mode
  - `<prefix> b` lists the paste-buffers
  - `<prefix> p` pastes from the top paste-buffer
