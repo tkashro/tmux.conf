@@ -360,6 +360,10 @@ tmux_conf_copy_to_os_clipboard=true
 # move status line to top
 #set -g status-position top
 
+# quick fix for SSH session when needed
+#set -g default-terminal "tmux-256color"
+#set -g default-terminal "screen-256color"
+
 # -- tpm -----------------------------------------------------------------------
 
 # while I don't use tpm myself, many people requested official support so here
